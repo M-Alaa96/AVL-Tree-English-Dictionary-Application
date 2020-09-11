@@ -1,5 +1,5 @@
 # AVL-Tree-English-Dictionary-Application
-an application based on your AVL Tree data structure implementation, that implement a simple English dictionary, with a simple text-based user interface,
+An application based on AVL Tree data structure implementation, that implement a simple English dictionary, with a simple text-based user interface,
 supporting the following functionalities:
 # 1. Load Dictionary:
 *  There is a text file, “dictionary.txt", containing a list of words. Each word will be in a separate line.
