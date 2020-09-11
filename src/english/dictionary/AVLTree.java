@@ -1,17 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package english.dictionary;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-/**
- *
- * @author RS
- */
 public class AVLTree<T extends Comparable<T>> {
 
     private static final int ALLOWED_IMBALANCE = 1;
